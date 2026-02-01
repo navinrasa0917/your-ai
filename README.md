@@ -32,18 +32,6 @@ Your-AI is an assistive, AI-powered application that provides a single, accessib
 
 - Help & Support Section to contact the team
 
-## *Target Users*
-
-- Elderly citizens
-
-- People with physical, hearing, or speech disabilities
-
-- Differently-abled job seekers
-
-- Para-sports aspirants
-
-- Caregivers and family members
-
 ## *Government Scheme Assistance*
 
    One of the key features of ***Your-AI*** is helping users discover government schemes available to them based on their disability type, age, and category. The application explains scheme benefits and eligibility in a user-friendly manner and directly redirects users to official government websites to apply, ensuring transparency, accuracy, and safety.
@@ -60,9 +48,9 @@ Your-AI is an assistive, AI-powered application that provides a single, accessib
 
   - To ensure accessibility for a diverse population, **Your-AI** supports three languages:
 
-       - ***English***
-       - ***Tamil***
-       - ***Hindi***
+       - English
+       - Tamil
+       - Hindi
 
 ## *sign language translator*
 
@@ -71,6 +59,18 @@ Your-AI is an assistive, AI-powered application that provides a single, accessib
 ## *Help & Learning Resources*
 
    ***Your-AI*** includes a Help & Support section where users can contact the team by sending messages for assistance. The platform also provides video tutorials to guide users on how to use the application, apply for schemes, and access services easily.
+
+## *Target Users*
+
+- Elderly citizens
+
+- People with physical, hearing, or speech disabilities
+
+- Differently-abled job seekers
+
+- Para-sports aspirants
+
+- Caregivers and family members
 
 ## *Future Scope*
 
