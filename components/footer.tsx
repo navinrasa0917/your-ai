@@ -60,15 +60,15 @@ export function Footer() {
             <ul className="space-y-3">
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Phone className="h-4 w-4" aria-hidden="true" />
-                <span>1800-XXX-XXXX (Toll Free)</span>
+                <span>+91 94980 40887</span>
               </li>
               <li className="flex items-center gap-2 text-muted-foreground">
                 <Mail className="h-4 w-4" aria-hidden="true" />
-                <a href="mailto:help@yourai.in" className="hover:text-primary">help@yourai.in</a>
+                <a href="mailto:help@yourai.in" className="hover:text-primary">navinrasa0917@gmail.com</a>
               </li>
               <li className="flex items-start gap-2 text-muted-foreground">
                 <MapPin className="mt-1 h-4 w-4 shrink-0" aria-hidden="true" />
-                <span>New Delhi, India</span>
+                <span>Tamil nadu, India</span>
               </li>
             </ul>
           </div>
