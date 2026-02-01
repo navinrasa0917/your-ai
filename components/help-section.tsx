@@ -87,21 +87,21 @@ const contactMethods = [
   {
     title: "Toll-Free Helpline",
     description: "Call us for immediate assistance",
-    value: "1800-XXX-XXXX",
+    value: "+91 94980 40887",
     icon: Phone,
     availability: "Available 24/7 in English, Hindi, Tamil"
   },
   {
     title: "Email Support",
     description: "Send us your queries",
-    value: "help@yourai.in",
+    value: "navinrasa0917@gmail.com",
     icon: Mail,
     availability: "Response within 24 hours"
   },
   {
     title: "WhatsApp Support",
     description: "Chat with us on WhatsApp",
-    value: "+91 98XXX XXXXX",
+    value: "+91 94980 40887",
     icon: MessageCircle,
     availability: "Mon-Sat, 9 AM - 6 PM"
   }
